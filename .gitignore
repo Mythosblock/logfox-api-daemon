@@ -1,0 +1,8 @@
+config/.env.local
+logs/
+run/
+state/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
